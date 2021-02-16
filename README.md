@@ -1,4 +1,4 @@
-## Welcome to Spark Dice !!</center>
+# Welcome to Spark Dice!!
 <!--
 ## Welcome to GitHub Pages
 
